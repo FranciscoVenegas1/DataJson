@@ -7,6 +7,22 @@
       "lugar": "Sede Duoc UC Maipu, auditorio",
       "descripcion": "Seminario realizado por celebridad informática",
       "imagenEvento": "assets/competencias_agiles.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "seminario",
+      "fecha": "20/10/2025",
+      "lugar": "Sede Duoc UC Maipu, auditorio",
+      "descripcion": "Seminario realizado por celebridad informática",
+      "imagenEvento": "assets/competencias_agiles.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "seminario agiles",
+      "fecha": "20/10/2026",
+      "lugar": "Sede Duoc UC Maipu, auditorio",
+      "descripcion": "Seminario realizado por celebridad informática",
+      "imagenEvento": "assets/competencias_agiles.jpg"
     }
   ],
   "usuarios": [
@@ -61,6 +77,42 @@
       "fecha": "22/10/2024",
       "lugar": "Sede Duoc UC Maipu, patio central",
       "email": "ign.vergarac@duocuc.cl"
+    },
+    {
+      "id": "237p",
+      "rut": "196493158",
+      "id_evento": "3",
+      "nombre": "Tech day",
+      "fecha": "22/10/2024",
+      "lugar": "Sede Duoc UC Maipu, patio central",
+      "email": "ign.vergarac@duocuc.cl"
+    },
+    {
+      "id": "231v",
+      "rut": "196493158",
+      "id_evento": "1",
+      "nombre": "Tech day",
+      "fecha": "22/10/2024",
+      "lugar": "Sede Duoc UC Maipu, patio central",
+      "email": "ign.vergarac@duocuc.cl"
+    },
+    {
+      "id": "2356h",
+      "rut": "196493158",
+      "id_evento": "2",
+      "nombre": "Tech day",
+      "fecha": "22/10/2024",
+      "lugar": "Sede Duoc UC Maipu, patio central",
+      "email": "ign.vergarac@duocuc.cl"
+    },
+    {
+      "id": "23856d",
+      "rut": "196493158",
+      "id_evento": "3",
+      "nombre": "Tech day",
+      "fecha": "22/10/2024",
+      "lugar": "Sede Duoc UC Maipu, patio central",
+      "email": "ign.vergarac@duocuc.cl"
     }
   ],
   "usuarios_gestores": [
@@ -70,6 +122,14 @@
       "username": "Ignacio",
       "password": "duoc1234",
       "email": "ign.vergarac@duocuc.cl",
+      "isactive": true
+    },
+    {
+      "id": "9dbd",
+      "username": "Pancho",
+      "email": "fr.venegass@duocuc.cl",
+      "rut": "210521526",
+      "password": "duoc1234",
       "isactive": true
     }
   ]
