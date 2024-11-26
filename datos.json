@@ -2,19 +2,11 @@
   "eventos": [
     {
       "id": "1",
-      "nombre": "Seminario compentencias agiles",
+      "nombre": "seminario competencias agiles",
       "fecha": "20/10/2024",
       "lugar": "Sede Duoc UC Maipu, auditorio",
       "descripcion": "Seminario realizado por celebridad informática",
       "imagenEvento": "assets/competencias_agiles.jpg"
-    },
-    {
-      "id": "2",
-      "nombre": "Tech day",
-      "fecha": "22/10/2024",
-      "lugar": "Sede Duoc UC Maipu, patio central",
-      "descripcion": "Evento de tecnología",
-      "imagenEvento": "assets/tech_day.jpg"
     }
   ],
   "usuarios": [
@@ -69,6 +61,16 @@
       "fecha": "22/10/2024",
       "lugar": "Sede Duoc UC Maipu, patio central",
       "email": "ign.vergarac@duocuc.cl"
+    }
+  ],
+  "usuarios_gestores": [
+    {
+      "id": "cc87",
+      "rut": "196493158",
+      "username": "Ignacio",
+      "password": "duoc1234",
+      "email": "ign.vergarac@duocuc.cl",
+      "isactive": true
     }
   ]
 }
